@@ -1,0 +1,5 @@
+1,localhost,8000,9000,/GFS/server-roots/server-1/files,/GFS/server-roots/server-1/data/metadata
+2,localhost,8001,9001,/GFS/server-roots/server-2/files,/GFS/server-roots/server-2/data/metadata
+3,localhost,8002,9002,/GFS/server-roots/server-3/files,/GFS/server-roots/server-3/data/metadata
+4,localhost,8003,9003,/GFS/server-roots/server-4/files,/GFS/server-roots/server-4/data/metadata
+5,localhost,8004,9004,/GFS/server-roots/server-5/files,/GFS/server-roots/server-5/data/metadata
